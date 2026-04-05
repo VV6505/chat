@@ -1,0 +1,5 @@
+- Đầu tiên vào file ClientChatChinh.java và ClientChatCon.java đến hàm connectToServer đổi "LAPTOP-727UKE16" trong dòng này (socket = new Socket("LAPTOP-727UKE16", 2025);) thành tên hostname trong máy của mình hoặc địa chỉ IP của máy 
+- Khi chạy đầu tiên vào file GiaoDien.java để chạy, khi chạy sẽ xuất hiện cửa sổ có 2 nút bấm "Chạy Server" và "Chạy Client", chọn chạy Server trước lúc đó hiện dòng "Đang khởi động server trên cổng 2025" là đã chạy server
+- Tiếp theo ấn nút Chạy Client sẽ hiện ra cửa sổ client chính, khi muốn chat với các Client chọn "Client 1, 2, 3, 4, 5" để chat
+- Chương trình có các chức năng như gửi File, gửi Ảnh, gửi tin nhắn, lưu trữ lịch sử trò chuyện trên client chính
+- Khi không muốn chat nữa hãy ấn nút "Thoát" để thoát từng chương trình
